@@ -1,4 +1,4 @@
-# Sandwich Club Project Starter Code
+# Project1-sandwich-club
 
 ## Project Overview
 In this project, you will complete the **Sandwich Club** app to
